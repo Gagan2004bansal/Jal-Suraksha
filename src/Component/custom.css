@@ -1,0 +1,29 @@
+.fiftenVH{
+    height: 15vh;
+}
+
+.navyBlue{
+    background-color: rgb(33, 75, 152);
+}
+
+.navyBlueHover{
+    background-color: rgb(20, 55, 121);
+}
+
+.lightblue{
+    background-color: rgba(33, 83, 103, 0.4);
+}
+
+.footerBack{
+    background-color: rgb(18, 36, 65);
+}
+
+.text-navyBlue{
+    border: 2px;
+    font-weight: bold;
+    color: rgb(33, 75, 152);
+}
+
+.navyBlueBorder{
+    border: 3px solid rgb(33, 75, 152);
+}
