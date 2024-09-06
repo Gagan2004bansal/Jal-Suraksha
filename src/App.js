@@ -9,6 +9,7 @@ function App() {
   return (
     <div>
         <Routes>
+          <Route path='/' element={<Home/>}/>
           <Route path='/home' element={<Home/>} />
           <Route path='/community' element={<Community/>}/>
           <Route path='/map' element={<Map/>}/>
